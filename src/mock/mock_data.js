@@ -1,10 +1,46 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1761729951890",
+      "icon": "👥",
+      "name": "帆软BI",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1761730050442",
+          "name": "应收坏账计提",
+          "url": "https://bi.erke.com:8508/webroot/decision/link/lcwt",
+          "description": "每月坏账计提",
+          "icon": ""
+        },
+        {
+          "id": "site-1761730098673",
+          "name": "加盟授信",
+          "url": "https://bi.erke.com:8508/webroot/decision/link/HGlT",
+          "description": "加盟客户授信",
+          "icon": ""
+        },
+        {
+          "id": "site-1761730157433",
+          "name": "低效店考核",
+          "url": "https://bi.erke.com:8508/webroot/decision/link/63CM",
+          "description": "低效考核",
+          "icon": ""
+        },
+        {
+          "id": "site-1761730196251",
+          "name": "费用异常检查",
+          "url": "https://bi.erke.com:8508/webroot/decision/link/BNgp",
+          "description": "费用检查",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "cloud",
       "name": "云服务",
       "icon": "☁️",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "cloudflare",
@@ -58,88 +94,16 @@ export const mockData = {
       ]
     },
     {
-      "id": "office",
-      "name": "办公协作",
-      "icon": "💼",
-      "order": 9,
-      "sites": [
-        {
-          "id": "notion",
-          "name": "Notion",
-          "url": "https://www.notion.so",
-          "description": "全能工作空间",
-          "icon": "/sitelogo/www.notion.so.ico"
-        },
-        {
-          "id": "slack",
-          "name": "Slack",
-          "url": "https://slack.com",
-          "description": "团队协作工具",
-          "icon": "/sitelogo/slack.com.ico"
-        },
-        {
-          "id": "trello",
-          "name": "Trello",
-          "url": "https://trello.com",
-          "description": "项目管理工具",
-          "icon": "/sitelogo/trello.com.ico"
-        },
-        {
-          "id": "feishu",
-          "name": "飞书",
-          "url": "https://www.feishu.cn",
-          "description": "企业协作平台",
-          "icon": "/sitelogo/www.feishu.cn.ico"
-        }
-      ]
-    },
-    {
       "id": "category-1761729568054",
       "icon": "📁",
       "name": "办公常用",
-      "order": 0,
+      "order": 3,
       "sites": [
         {
           "id": "site-1761729621250",
           "name": "EPOS",
           "url": "http://qr20.cn/DxJqa1",
           "description": "EPOS登录入口",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "id": "category-1761729951890",
-      "icon": "👥",
-      "name": "帆软BI",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1761730050442",
-          "name": "应收坏账计提",
-          "url": "https://bi.erke.com:8508/webroot/decision/link/lcwt",
-          "description": "每月坏账计提",
-          "icon": ""
-        },
-        {
-          "id": "site-1761730098673",
-          "name": "加盟授信",
-          "url": "https://bi.erke.com:8508/webroot/decision/link/HGlT",
-          "description": "加盟客户授信",
-          "icon": ""
-        },
-        {
-          "id": "site-1761730157433",
-          "name": "低效店考核",
-          "url": "https://bi.erke.com:8508/webroot/decision/link/63CM",
-          "description": "低效考核",
-          "icon": ""
-        },
-        {
-          "id": "site-1761730196251",
-          "name": "费用异常检查",
-          "url": "https://bi.erke.com:8508/webroot/decision/link/BNgp",
-          "description": "费用检查",
           "icon": ""
         }
       ]
