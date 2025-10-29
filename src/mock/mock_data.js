@@ -365,13 +365,6 @@ export const mockData = {
           "icon": "/sitelogo/www.youtube.com.ico"
         },
         {
-          "id": "douban",
-          "name": "豆瓣",
-          "url": "https://www.douban.com",
-          "description": "文艺生活社区",
-          "icon": "/sitelogo/www.douban.com.ico"
-        },
-        {
           "id": "zhihu",
           "name": "知乎",
           "url": "https://www.zhihu.com",
