@@ -450,6 +450,13 @@ export const mockData = {
           "url": "https://bi.erke.com:8508/webroot/decision/link/63CM",
           "description": "低效考核",
           "icon": ""
+        },
+        {
+          "id": "site-1761730196251",
+          "name": "费用检查",
+          "url": "https://bi.erke.com:8508/webroot/decision/link/BNgp",
+          "description": "费用检查",
+          "icon": ""
         }
       ]
     }
