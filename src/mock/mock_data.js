@@ -419,10 +419,17 @@ export const mockData = {
           "id": "site-1761729621250",
           "name": "EPOS",
           "url": "http://qr20.cn/DxJqa1",
-          "description": "",
+          "description": "EPOS登录入口",
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1761729951890",
+      "icon": "👥",
+      "name": "帆软BI",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "猪猪导航"
