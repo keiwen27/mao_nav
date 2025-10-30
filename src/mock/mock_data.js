@@ -42,6 +42,13 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1761806407822",
+      "icon": "💻",
+      "name": "办公平台",
+      "order": 1,
+      "sites": []
     }
   ],
   "title": "GX-gogogo"
