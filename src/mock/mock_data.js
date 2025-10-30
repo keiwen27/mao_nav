@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "category-1761729951890",
-      "icon": "👥",
+      "icon": "📊",
       "name": "帆软BI",
       "order": 0,
       "sites": [
@@ -44,6 +44,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "GX-gogogo",
-  "_fileSha": "fbc88150a610f4b66d47789c2b4d35e6672446e4"
+  "title": "GX-gogogo"
 }
