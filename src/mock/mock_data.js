@@ -44,6 +44,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "GXGOGOGO",
-  "_fileSha": "912c1af11f6f83e21c3d42efb16e4985727d8087"
+  "title": "GXGOGOGO"
 }
