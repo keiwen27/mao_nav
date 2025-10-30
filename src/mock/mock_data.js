@@ -33,6 +33,21 @@ export const mockData = {
           "url": "https://bi.erke.com:8508/webroot/decision/link/BNgp",
           "description": "费用检查",
           "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1761806407822",
+      "icon": "💻",
+      "name": "办公平台",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1761806577519",
+          "name": "门户",
+          "url": "http://passport.erke.com/",
+          "description": "门户",
+          "icon": ""
         },
         {
           "id": "site-1761737297267",
@@ -42,13 +57,6 @@ export const mockData = {
           "icon": ""
         }
       ]
-    },
-    {
-      "id": "category-1761806407822",
-      "icon": "💻",
-      "name": "办公平台",
-      "order": 1,
-      "sites": []
     }
   ],
   "title": "GX-gogogo"
