@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1761729951890",
       "icon": "📊",
-      "name": "帆软BI",
+      "name": "帆软",
       "order": 0,
       "sites": [
         {
@@ -39,7 +39,7 @@ export const mockData = {
     {
       "id": "category-1761806407822",
       "icon": "💻",
-      "name": "办公平台",
+      "name": "办公",
       "order": 1,
       "sites": [
         {
