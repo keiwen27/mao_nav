@@ -11,28 +11,28 @@ export const mockData = {
           "name": "坏账",
           "url": "https://bi.erke.com:8508/webroot/decision/link/lcwt",
           "description": "每月坏账计提",
-          "icon": ""
+          "icon": "https://favicon.im/finebi.com?t=1762506300240"
         },
         {
           "id": "site-1761730098673",
           "name": "授信",
           "url": "https://bi.erke.com:8508/webroot/decision/link/HGlT",
           "description": "加盟客户授信",
-          "icon": ""
+          "icon": "https://favicon.im/finebi.com?t=1762506300240"
         },
         {
           "id": "site-1761730157433",
           "name": "低效",
           "url": "https://bi.erke.com:8508/webroot/decision/link/63CM",
           "description": "低效考核",
-          "icon": ""
+          "icon": "https://favicon.im/finebi.com?t=1762506300240"
         },
         {
           "id": "site-1761730196251",
           "name": "费用",
           "url": "https://bi.erke.com:8508/webroot/decision/link/BNgp",
           "description": "费用检查",
-          "icon": ""
+          "icon": "https://favicon.im/finebi.com?t=1762506300240"
         }
       ]
     },
@@ -47,18 +47,17 @@ export const mockData = {
           "name": "门户",
           "url": "http://passport.erke.com/",
           "description": "门户",
-          "icon": ""
+          "icon": "https://favicon.im/www.erke.com?t=1762506444109"
         },
         {
           "id": "site-1761737297267",
           "name": "EPOS",
           "url": "http://qr20.cn/DxJqa1",
           "description": "",
-          "icon": ""
+          "icon": "https://favicon.im/www.erke.com?t=1762506444109"
         }
       ]
     }
   ],
-  "title": "FSSD",
-  "_fileSha": "46273397bb8b682e13a7108182e604a2fc226a2a"
+  "title": "FSSD"
 }
