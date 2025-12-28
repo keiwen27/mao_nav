@@ -57,6 +57,13 @@ export const mockData = {
           "icon": "https://favicon.im/www.erke.com?t=1762506444109"
         }
       ]
+    },
+    {
+      "id": "category-1766881145657",
+      "icon": "📚",
+      "name": "老六系列",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "FSSD"
