@@ -63,7 +63,15 @@ export const mockData = {
       "icon": "📚",
       "name": "老六系列",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1766881898666",
+          "name": "导航",
+          "url": "https://site.528181.xyz/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "FSSD"
