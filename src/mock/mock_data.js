@@ -4,7 +4,7 @@ export const mockData = {
       "id": "category-1761729951890",
       "icon": "📊",
       "name": "帆软",
-      "order": 9,
+      "order": 0,
       "sites": [
         {
           "id": "site-1761730050442",
@@ -40,7 +40,7 @@ export const mockData = {
       "id": "category-1761806407822",
       "icon": "💻",
       "name": "办公",
-      "order": 8,
+      "order": 1,
       "sites": [
         {
           "id": "site-1761806577519",
@@ -55,56 +55,6 @@ export const mockData = {
           "url": "http://qr20.cn/DxJqa1",
           "description": "",
           "icon": "https://favicon.im/www.erke.com?t=1762506444109"
-        }
-      ]
-    },
-    {
-      "id": "category-1766880746971",
-      "icon": "👥",
-      "name": "老六系列",
-      "order": 1,
-      "sites": [
-        {
-          "id": "site-1766880836930",
-          "name": "老六导航",
-          "url": "https://site.528181.xyz/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1766880880169",
-          "name": "博客",
-          "url": "https://blog.528181.xyz/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1766880900777",
-          "name": "哪吒",
-          "url": "https://nezha.528181.xyz/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1766880925417",
-          "name": "音乐",
-          "url": "https://yy.528181.xyz/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1766880951402",
-          "name": "域名",
-          "url": "https://dc.528181.xyz/login",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1766880997681",
-          "name": "影视",
-          "url": "https://babyice.zeabur.app/",
-          "description": "",
-          "icon": ""
         }
       ]
     }
