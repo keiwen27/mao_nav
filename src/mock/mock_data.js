@@ -5,7 +5,57 @@ export const mockData = {
       "icon": "💻",
       "name": "常用网站",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767266490807",
+          "name": "BLOG",
+          "url": "https://blog.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266514083",
+          "name": "邮箱",
+          "url": "https://mail.alien.qzz.io/login",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266538996",
+          "name": "域名管理",
+          "url": "https://dc.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266554028",
+          "name": "音乐",
+          "url": "https://yy.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266568710",
+          "name": "导航",
+          "url": "https://nav.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266583909",
+          "name": "地址生成",
+          "url": "https://add.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767266606155",
+          "name": "笔记",
+          "url": "https://note.alien.qzz.io/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1767265426146",
