@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1767266490807",
-          "name": "BLOG",
+          "name": "博客",
           "url": "https://blog.alien.qzz.io/",
           "description": "",
           "icon": ""
@@ -22,7 +22,7 @@ export const mockData = {
         },
         {
           "id": "site-1767266538996",
-          "name": "域名管理",
+          "name": "域名",
           "url": "https://dc.alien.qzz.io/",
           "description": "",
           "icon": ""
@@ -43,7 +43,7 @@ export const mockData = {
         },
         {
           "id": "site-1767266583909",
-          "name": "地址生成",
+          "name": "地址",
           "url": "https://add.alien.qzz.io/",
           "description": "",
           "icon": ""
