@@ -1,6 +1,20 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1767265495755",
+      "icon": "💻",
+      "name": "常用网站",
+      "order": 0,
+      "sites": []
+    },
+    {
+      "id": "category-1767265426146",
+      "icon": "🌐",
+      "name": "门户平台",
+      "order": 1,
+      "sites": []
+    },
+    {
       "id": "category-1761729951890",
       "icon": "📊",
       "name": "帆软看板",
@@ -35,20 +49,6 @@ export const mockData = {
           "icon": "https://favicon.im/finebi.com?t=1762506300240"
         }
       ]
-    },
-    {
-      "id": "category-1767265426146",
-      "icon": "🌐",
-      "name": "门户平台",
-      "order": 1,
-      "sites": []
-    },
-    {
-      "id": "category-1767265495755",
-      "icon": "💻",
-      "name": "常用网站",
-      "order": 0,
-      "sites": []
     }
   ],
   "title": "FSSD"
