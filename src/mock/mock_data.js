@@ -89,7 +89,7 @@ export const mockData = {
           "name": "AI",
           "url": "https://chatglm.erke.com/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/newportal.erke.com"
+          "icon": ""
         }
       ]
     },
