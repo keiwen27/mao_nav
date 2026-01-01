@@ -12,7 +12,36 @@ export const mockData = {
       "icon": "🌐",
       "name": "门户平台",
       "order": 1,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1767265758198",
+          "name": "门户",
+          "url": "http://passport.erke.com/",
+          "description": "",
+          "icon": "http://passport.erke.com/"
+        },
+        {
+          "id": "site-1767265831715",
+          "name": "帆软",
+          "url": "https://bi.erke.com:8508/webroot2/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767265863131",
+          "name": "大数据",
+          "url": "http://newportal.erke.com/Supervise/Erke/go?gt=BI",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767265879195",
+          "name": "AI",
+          "url": "https://chatglm.erke.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/newportal.erke.com"
+        }
+      ]
     },
     {
       "id": "category-1761729951890",
