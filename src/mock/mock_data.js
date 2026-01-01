@@ -42,6 +42,13 @@ export const mockData = {
       "name": "门户平台",
       "order": 1,
       "sites": []
+    },
+    {
+      "id": "category-1767265495755",
+      "icon": "🎵",
+      "name": "自建系统",
+      "order": 2,
+      "sites": []
     }
   ],
   "title": "FSSD"
