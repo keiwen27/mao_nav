@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1761729951890",
       "icon": "📊",
-      "name": "帆软",
+      "name": "帆软看板",
       "order": 0,
       "sites": [
         {
@@ -35,8 +35,14 @@ export const mockData = {
           "icon": "https://favicon.im/finebi.com?t=1762506300240"
         }
       ]
+    },
+    {
+      "id": "category-1767265426146",
+      "icon": "🌐",
+      "name": "门户平台",
+      "order": 1,
+      "sites": []
     }
   ],
-  "title": "GX_NAV",
-  "_fileSha": "5cd97a242d0c0515bd078ea55a4ea2f7d326d8e0"
+  "title": "FSSD"
 }
