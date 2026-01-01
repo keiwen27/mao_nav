@@ -4,7 +4,7 @@ export const mockData = {
       "id": "category-1761729951890",
       "icon": "📊",
       "name": "帆软看板",
-      "order": 0,
+      "order": 2,
       "sites": [
         {
           "id": "site-1761730050442",
@@ -47,7 +47,7 @@ export const mockData = {
       "id": "category-1767265495755",
       "icon": "🎵",
       "name": "自建系统",
-      "order": 2,
+      "order": 0,
       "sites": []
     }
   ],
