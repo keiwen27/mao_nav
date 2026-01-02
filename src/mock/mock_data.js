@@ -8,28 +8,28 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1767266490807",
-          "name": "博客",
+          "name": "Blog",
           "url": "https://blog.alien.qzz.io/",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1767266514083",
-          "name": "邮箱",
+          "name": "Cloudmail",
           "url": "https://mail.alien.qzz.io/login",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1767266538996",
-          "name": "域名",
+          "name": "Domain",
           "url": "https://dc.alien.qzz.io/",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1767266554028",
-          "name": "音乐",
+          "name": "Music",
           "url": "https://yy.alien.qzz.io/",
           "description": "",
           "icon": ""
@@ -43,22 +43,29 @@ export const mockData = {
         },
         {
           "id": "site-1767266583909",
-          "name": "地址",
+          "name": "IP-address",
           "url": "https://add.alien.qzz.io/",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1767266606155",
-          "name": "笔记",
+          "name": "NoteBook",
           "url": "https://note.alien.qzz.io/",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1767326977581",
-          "name": "工作流",
+          "name": "Workflow",
           "url": "https://flow.alien.qzz.io/login",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1767363524199",
+          "name": "CloudPaste",
+          "url": "https://cp.alien.qzz.io/",
           "description": "",
           "icon": ""
         }
