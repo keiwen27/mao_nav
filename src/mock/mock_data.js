@@ -54,6 +54,13 @@ export const mockData = {
           "url": "https://note.alien.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767326977581",
+          "name": "工作流",
+          "url": "https://flow.alien.qzz.io/login",
+          "description": "",
+          "icon": ""
         }
       ]
     },
