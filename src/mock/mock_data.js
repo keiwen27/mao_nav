@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://cp.alien.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767400759374",
+          "name": "b2b-directus",
+          "url": "https://flexible-agatha-kpy-5598a062.koyeb.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
