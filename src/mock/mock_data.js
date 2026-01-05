@@ -37,7 +37,7 @@ export const mockData = {
         {
           "id": "site-1767266568710",
           "name": "导航",
-          "url": "https://nav.alien.qzz.io/",
+          "url": "https://site.alien.qzz.io/",
           "description": "",
           "icon": ""
         },
