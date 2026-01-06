@@ -17,84 +17,84 @@ export const mockData = {
           "id": "site-1767266514083",
           "name": "Cloudmail",
           "url": "https://mail.alien.qzz.io/login",
-          "description": "",
+          "description": "邮箱",
           "icon": ""
         },
         {
           "id": "site-1767266538996",
           "name": "Domain",
           "url": "https://dc.alien.qzz.io/",
-          "description": "",
+          "description": "域名到期管理",
           "icon": ""
         },
         {
           "id": "site-1767266554028",
           "name": "Music",
           "url": "https://yy.alien.qzz.io/",
-          "description": "",
+          "description": "在线音乐试听",
           "icon": ""
         },
         {
           "id": "site-1767266568710",
           "name": "导航",
           "url": "https://site.alien.qzz.io/",
-          "description": "",
+          "description": "导航网址",
           "icon": ""
         },
         {
           "id": "site-1767266583909",
           "name": "IP-address",
           "url": "https://add.alien.qzz.io/",
-          "description": "",
+          "description": "根据IP生成地址",
           "icon": ""
         },
         {
           "id": "site-1767266606155",
           "name": "NoteBook",
           "url": "https://note.alien.qzz.io/",
-          "description": "",
+          "description": "备忘录",
           "icon": ""
         },
         {
           "id": "site-1767326977581",
           "name": "Workflow",
           "url": "https://flow.alien.qzz.io/login",
-          "description": "",
+          "description": "工作流",
           "icon": ""
         },
         {
           "id": "site-1767363524199",
           "name": "CloudPaste",
           "url": "https://cp.alien.qzz.io/",
-          "description": "",
+          "description": "云端剪贴板",
           "icon": ""
         },
         {
           "id": "site-1767400759374",
           "name": "b2b-directus",
           "url": "https://flexible-agatha-kpy-5598a062.koyeb.app/",
-          "description": "",
+          "description": "外贸站后台",
           "icon": ""
         },
         {
           "id": "site-1767405078397",
           "name": "Mtv",
           "url": "https://babyice.zeabur.app/",
-          "description": "",
+          "description": "在线影视",
           "icon": ""
         },
         {
           "id": "site-1767440350109",
           "name": "Cf-work-txt",
           "url": "https://txt.alien.qzz.io/1",
-          "description": "",
+          "description": "在线记事本",
           "icon": ""
         },
         {
           "id": "site-1767700805942",
           "name": "Renewhelper",
           "url": "https://xd.alien.qzz.io/",
-          "description": "续订服务",
+          "description": "服务续订管理",
           "icon": ""
         }
       ]
