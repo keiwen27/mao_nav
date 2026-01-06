@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://txt.alien.qzz.io/1",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1767700805942",
+          "name": "Renewhelper",
+          "url": "https://xd.alien.qzz.io/",
+          "description": "续订服务",
+          "icon": ""
         }
       ]
     },
