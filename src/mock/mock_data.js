@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1767266490807",
           "name": "Blog",
           "url": "https://blog.alien.qzz.io/",
-          "description": "",
+          "description": "博客",
           "icon": ""
         },
         {
