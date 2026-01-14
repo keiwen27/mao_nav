@@ -11,49 +11,49 @@ export const mockData = {
           "name": "Blog",
           "url": "https://blog.alien.qzz.io/",
           "description": "博客",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/blog.alien.qzz.io"
         },
         {
           "id": "site-1767266514083",
           "name": "Cloudmail",
           "url": "https://mail.alien.qzz.io/login",
           "description": "邮箱",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/mail.alien.qzz.io"
         },
         {
           "id": "site-1767266538996",
           "name": "Domain",
           "url": "https://dc.alien.qzz.io/",
           "description": "域名到期管理",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/dc.alien.qzz.io"
         },
         {
           "id": "site-1767266554028",
           "name": "Music",
           "url": "https://yy.alien.qzz.io/",
           "description": "在线音乐试听",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/yy.alien.qzz.io"
         },
         {
           "id": "site-1767266568710",
           "name": "导航",
           "url": "https://site.alien.qzz.io/",
           "description": "导航网址",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/site.alien.qzz.io"
         },
         {
           "id": "site-1767266583909",
           "name": "IP-address",
           "url": "https://add.alien.qzz.io/",
           "description": "根据IP生成地址",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/add.alien.qzz.io"
         },
         {
           "id": "site-1767266606155",
           "name": "NoteBook",
           "url": "https://note.alien.qzz.io/",
           "description": "备忘录",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/note.alien.qzz.io"
         },
         {
           "id": "site-1767326977581",
@@ -67,28 +67,28 @@ export const mockData = {
           "name": "CloudPaste",
           "url": "https://cp.alien.qzz.io/",
           "description": "云端剪贴板",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/cp.alien.qzz.io"
         },
         {
           "id": "site-1767400759374",
           "name": "b2b-directus",
           "url": "https://flexible-agatha-kpy-5598a062.koyeb.app/",
           "description": "外贸站后台",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/flexible-agatha-kpy-5598a062.koyeb.app"
         },
         {
           "id": "site-1767405078397",
           "name": "Mtv",
           "url": "https://babyice.zeabur.app/",
           "description": "在线影视",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/babyice.zeabur.app"
         },
         {
           "id": "site-1767440350109",
           "name": "Cf-work-txt",
           "url": "https://txt.alien.qzz.io/1",
           "description": "在线记事本",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/txt.alien.qzz.io"
         },
         {
           "id": "site-1767700805942",
