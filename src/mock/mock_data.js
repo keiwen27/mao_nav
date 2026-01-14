@@ -110,28 +110,28 @@ export const mockData = {
           "name": "门户",
           "url": "http://passport.erke.com/",
           "description": "",
-          "icon": "http://passport.erke.com/"
+          "icon": "https://www.faviconextractor.com/favicon/passport.erke.com"
         },
         {
           "id": "site-1767265831715",
           "name": "帆软",
           "url": "https://bi.erke.com:8508/webroot2/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/bi.erke.com:8508"
         },
         {
           "id": "site-1767265863131",
           "name": "大数据",
           "url": "http://newportal.erke.com/Supervise/Erke/go?gt=BI",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/newportal.erke.com"
         },
         {
           "id": "site-1767265879195",
           "name": "AI",
           "url": "https://chatglm.erke.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/chatglm.erke.com"
         }
       ]
     },
