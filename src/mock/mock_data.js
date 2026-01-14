@@ -72,7 +72,7 @@ export const mockData = {
         },
         {
           "id": "site-1767266568710",
-          "name": "导航",
+          "name": "优雅导航",
           "url": "https://site.alien.qzz.io/",
           "description": "导航网址",
           "icon": "https://www.faviconextractor.com/favicon/site.alien.qzz.io"
@@ -114,7 +114,7 @@ export const mockData = {
         },
         {
           "id": "site-1767405078397",
-          "name": "Mtv",
+          "name": "MV",
           "url": "https://babyice.zeabur.app/",
           "description": "在线影视",
           "icon": "https://www.faviconextractor.com/favicon/babyice.zeabur.app"
