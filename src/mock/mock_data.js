@@ -139,6 +139,13 @@ export const mockData = {
           "url": "https://ip.alien.qzz.io/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1768459138394",
+          "name": "R2图库",
+          "url": "https://img.alien.qzz.io/",
+          "description": "",
+          "icon": "https://favicon.im/img.alien.qzz.io?larger=true"
         }
       ]
     },
