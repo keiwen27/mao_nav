@@ -39,7 +39,7 @@ export const mockData = {
     {
       "id": "category-1767265495755",
       "icon": "💻",
-      "name": "项目实践",
+      "name": "项目实战",
       "order": 1,
       "sites": [
         {
