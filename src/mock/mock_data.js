@@ -132,6 +132,13 @@ export const mockData = {
           "url": "https://xd.alien.qzz.io/",
           "description": "服务续订管理",
           "icon": ""
+        },
+        {
+          "id": "site-1768448651896",
+          "name": "IP哨兵",
+          "url": "https://ip.alien.qzz.io/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
