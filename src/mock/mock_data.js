@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://idcflare.com/signup",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
+        },
+        {
+          "id": "site-1768802974205",
+          "name": "52PJ",
+          "url": "https://www.52pojie.cn/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
         }
       ]
     },
