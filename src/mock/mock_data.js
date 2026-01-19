@@ -129,7 +129,7 @@ export const mockData = {
         {
           "id": "site-1767700805942",
           "name": "Renewhelper",
-          "url": "https://xd.alien.qzz.io/",
+          "url": "https://xd.528181.xyz/",
           "description": "服务续订管理",
           "icon": ""
         },
