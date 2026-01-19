@@ -33,6 +33,13 @@ export const mockData = {
           "url": "https://linux.do",
           "description": "Linux系统的中文技术网站",
           "icon": "https://www.faviconextractor.com/favicon/linux.do"
+        },
+        {
+          "id": "site-1768800767068",
+          "name": "IDC FLare",
+          "url": "https://idcflare.com/signup",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
         }
       ]
     },
