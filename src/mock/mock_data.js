@@ -164,9 +164,9 @@ export const mockData = {
         {
           "id": "site-1769095651082",
           "name": "N8N",
-          "url": "https://n8n.528181.xy",
+          "url": "https://n8n.528181.xyz",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/tremendous-gennifer-ecw-441582e7.koyeb.app"
+          "icon": "https://www.faviconextractor.com/favicon/n8n.528181.xyz"
         }
       ]
     },
