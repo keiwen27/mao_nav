@@ -36,7 +36,7 @@ export const mockData = {
         },
         {
           "id": "site-1768800767068",
-          "name": "IDC FLare",
+          "name": "IDCFLare",
           "url": "https://idcflare.com/signup",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/idcflare.com"
