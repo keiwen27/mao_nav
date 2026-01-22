@@ -160,6 +160,13 @@ export const mockData = {
           "url": "https://img.alien.qzz.io/",
           "description": "",
           "icon": "https://favicon.im/img.alien.qzz.io?larger=true"
+        },
+        {
+          "id": "site-1769095651082",
+          "name": "N8N",
+          "url": "https://tremendous-gennifer-ecw-441582e7.koyeb.app",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/tremendous-gennifer-ecw-441582e7.koyeb.app"
         }
       ]
     },
