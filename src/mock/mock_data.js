@@ -247,6 +247,13 @@ export const mockData = {
           "url": "https://usaddressgen.com/tax-free-address/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/usaddressgen.com"
+        },
+        {
+          "id": "site-1769073057145",
+          "name": "abcproxy",
+          "url": "https://www.abcproxy.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.abcproxy.com"
         }
       ]
     }
