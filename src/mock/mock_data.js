@@ -234,6 +234,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/bi.erke.com:8508"
         }
       ]
+    },
+    {
+      "id": "category-1769072714248",
+      "icon": "⚙️",
+      "name": "在线工具",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1769072745055",
+          "name": "美国免税州地址生成",
+          "url": "https://usaddressgen.com/tax-free-address/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/usaddressgen.com"
+        }
+      ]
     }
   ],
   "title": "FSSD"
