@@ -174,6 +174,13 @@ export const mockData = {
           "url": "https://babyn8n.zeabur.app/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1769432395438",
+          "name": "订阅管理",
+          "url": "https://babysm.zeabur.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/babysm.zeabur.app"
         }
       ]
     },
