@@ -86,7 +86,7 @@ export const mockData = {
         },
         {
           "id": "site-1767266568710",
-          "name": "优雅导航",
+          "name": "导航",
           "url": "https://site.alien.qzz.io/",
           "description": "导航网址",
           "icon": "https://www.faviconextractor.com/favicon/site.alien.qzz.io"
@@ -164,7 +164,7 @@ export const mockData = {
         {
           "id": "site-1769095651082",
           "name": "N8N",
-          "url": "https://n8n.528181.xyz",
+          "url": "https://tremendous-gennifer-ecw-441582e7.koyeb.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/n8n.528181.xyz"
         }
