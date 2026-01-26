@@ -167,6 +167,13 @@ export const mockData = {
           "url": "https://tremendous-gennifer-ecw-441582e7.koyeb.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/n8n.528181.xyz"
+        },
+        {
+          "id": "site-1769419439274",
+          "name": "n8n-zeabur",
+          "url": "https://babyn8n.zeabur.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
