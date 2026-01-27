@@ -199,31 +199,38 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1767265758198",
-          "name": "门户",
-          "url": "http://passport.erke.com/",
+          "name": "信用卡生成1",
+          "url": "https://namso-gen.com/?tab=advance&network=random",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/passport.erke.com"
+          "icon": "https://www.faviconextractor.com/favicon/namso-gen.com"
         },
         {
           "id": "site-1767265831715",
-          "name": "帆软",
-          "url": "https://bi.erke.com:8508/webroot2/",
+          "name": "信用卡生成验证",
+          "url": "https://chkr.cc/",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/bi.erke.com:8508"
+          "icon": "https://www.faviconextractor.com/favicon/chkr.cc"
         },
         {
           "id": "site-1767265863131",
-          "name": "大数据",
-          "url": "http://newportal.erke.com/Supervise/Erke/go?gt=BI",
+          "name": "国家BIN 1",
+          "url": "https://bincheck.io/zh/bin-search",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/newportal.erke.com"
+          "icon": "https://www.faviconextractor.com/favicon/bincheck.io"
         },
         {
           "id": "site-1767265879195",
-          "name": "AI",
-          "url": "https://chatglm.erke.com/",
+          "name": "国家BIN 2",
+          "url": "https://bintable.com/issuer/in/BANK-OF-INDIA",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/chatglm.erke.com"
+          "icon": "https://www.faviconextractor.com/favicon/bintable.com"
+        },
+        {
+          "id": "site-1769504211573",
+          "name": "信用卡校验",
+          "url": "https://mock.payate.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mock.payate.com"
         }
       ]
     },
