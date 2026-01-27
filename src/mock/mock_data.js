@@ -289,6 +289,13 @@ export const mockData = {
           "url": "https://mockaddress.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mockaddress.com"
+        },
+        {
+          "id": "site-1769476958246",
+          "name": "AI整理",
+          "url": "https://aidh.li/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/aidh.li"
         }
       ]
     }
