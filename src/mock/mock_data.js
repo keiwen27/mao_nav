@@ -282,6 +282,13 @@ export const mockData = {
           "url": "https://www.abcproxy.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.abcproxy.com"
+        },
+        {
+          "id": "site-1769476810056",
+          "name": "免税州地址2",
+          "url": "https://mockaddress.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mockaddress.com"
         }
       ]
     }
