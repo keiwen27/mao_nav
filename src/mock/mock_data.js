@@ -8,14 +8,14 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1768387252524",
-          "name": "nodeseek",
+          "name": "Nodeseek",
           "url": "https://www.nodeseek.com/",
           "description": "专注于Node.js资源的搜索引擎",
           "icon": "https://www.faviconextractor.com/favicon/www.nodeseek.com"
         },
         {
           "id": "site-1768387293356",
-          "name": "MJJBox资源",
+          "name": "MJJBox",
           "url": "https://mjjbox.com/",
           "description": "各类资源下载",
           "icon": "https://www.faviconextractor.com/favicon/mjjbox.com"
@@ -43,7 +43,7 @@ export const mockData = {
         },
         {
           "id": "site-1768802974205",
-          "name": "52PJ",
+          "name": "52论坛",
           "url": "https://www.52pojie.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
@@ -242,42 +242,42 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1769072745055",
-          "name": "免税地址1",
+          "name": "美国免税州地址生成",
           "url": "https://usaddressgen.com/tax-free-address/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/usaddressgen.com"
         },
         {
-          "id": "site-1769476810056",
-          "name": "免税地址2",
-          "url": "https://mockaddress.com/",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/mockaddress.com"
-        },
-        {
           "id": "site-1769073057145",
-          "name": "家宽Abcproxy",
+          "name": "abcproxy",
           "url": "https://www.abcproxy.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.abcproxy.com"
         },
         {
+          "id": "site-1769476810056",
+          "name": "免税州地址2",
+          "url": "https://mockaddress.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/mockaddress.com"
+        },
+        {
           "id": "site-1769476958246",
-          "name": "AI-tools",
+          "name": "AI整理",
           "url": "https://aidh.li/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/aidh.li"
         },
         {
           "id": "site-1769477553851",
-          "name": "IEMI查询",
+          "name": "IEMI型号查询",
           "url": "https://www.coolgenerator.com/imei-generator",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.coolgenerator.com"
         },
         {
           "id": "site-1769477608122",
-          "name": "云资源",
+          "name": "免费云资源",
           "url": "https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gist.github.com"
