@@ -303,6 +303,13 @@ export const mockData = {
           "url": "https://www.coolgenerator.com/imei-generator",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.coolgenerator.com"
+        },
+        {
+          "id": "site-1769477608122",
+          "name": "免费云资源",
+          "url": "https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/gist.github.com"
         }
       ]
     }
