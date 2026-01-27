@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://babynav.zeabur.app/",
           "description": "https://github.com/llodys/node-nav\n个基于 Node.js + Argo隧道 + 轻量级个人导航站，包含前台展示、后台登录管理、书签存储功能。 专为PaaS平台和游戏玩具平台设计,它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能。",
           "icon": ""
+        },
+        {
+          "id": "site-1769525248402",
+          "name": "uptime-kuma",
+          "url": "https://babyut.zeabur.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/babyut.zeabur.app"
         }
       ]
     },
