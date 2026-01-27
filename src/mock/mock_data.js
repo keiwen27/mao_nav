@@ -194,7 +194,7 @@ export const mockData = {
     {
       "id": "category-1767265426146",
       "icon": "🌐",
-      "name": "门户平台",
+      "name": "信用卡生成",
       "order": 2,
       "sites": [
         {
