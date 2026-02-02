@@ -120,13 +120,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/cp.alien.qzz.io"
         },
         {
-          "id": "site-1767400759374",
-          "name": "b2b-directus",
-          "url": "https://flexible-agatha-kpy-5598a062.koyeb.app/",
-          "description": "外贸站后台",
-          "icon": "https://www.faviconextractor.com/favicon/flexible-agatha-kpy-5598a062.koyeb.app"
-        },
-        {
           "id": "site-1767405078397",
           "name": "MV",
           "url": "https://babyice.zeabur.app/",
@@ -167,13 +160,6 @@ export const mockData = {
           "url": "https://tremendous-gennifer-ecw-441582e7.koyeb.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/n8n.528181.xyz"
-        },
-        {
-          "id": "site-1769419439274",
-          "name": "n8n-zeabur",
-          "url": "https://babyn8n.zeabur.app/",
-          "description": "",
-          "icon": ""
         },
         {
           "id": "site-1769432395438",
