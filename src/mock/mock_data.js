@@ -177,10 +177,17 @@ export const mockData = {
         },
         {
           "id": "site-1769525248402",
-          "name": "uptime-kuma",
+          "name": "Uptime-kuma-api",
           "url": "https://babyut.zeabur.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/babyut.zeabur.app"
+        },
+        {
+          "id": "site-1770101422677",
+          "name": "服务监控",
+          "url": "https://babykuma.zeabur.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.app"
         }
       ]
     },
