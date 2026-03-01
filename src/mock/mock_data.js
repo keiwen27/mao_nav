@@ -283,6 +283,28 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/gist.github.com"
         }
       ]
+    },
+    {
+      "id": "category-1772331877770",
+      "icon": "🌐",
+      "name": "CDN",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1772331908539",
+          "name": "Edgeone",
+          "url": "https://console.cloud.tencent.com/edgeone",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1772331935251",
+          "name": "Cloudflare",
+          "url": "https://dash.cloudflare.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "FSSD"
