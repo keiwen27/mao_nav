@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://babykuma.zeabur.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/zeabur.app"
+        },
+        {
+          "id": "site-1773496804488",
+          "name": "聚汇订阅",
+          "url": "https://sub.528181.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/sub.528181.xyz"
         }
       ]
     },
