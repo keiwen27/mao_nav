@@ -195,6 +195,13 @@ export const mockData = {
           "url": "https://sub.528181.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/sub.528181.xyz"
+        },
+        {
+          "id": "site-1773643695093",
+          "name": "CF优选IP订阅生成器",
+          "url": "https://cfsub.528181.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/cfsub.528181.xyz"
         }
       ]
     },
