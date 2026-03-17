@@ -319,6 +319,28 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1773739295495",
+      "icon": "💼",
+      "name": "游戏机",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1773739320561",
+          "name": "bot-hosting",
+          "url": "https://bot-hosting.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/bot-hosting.net"
+        },
+        {
+          "id": "site-1773739376137",
+          "name": "hidencloud",
+          "url": "https://dash.hidencloud.com/store/view/349",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dash.hidencloud.com"
+        }
+      ]
     }
   ],
   "title": "FSSD"
