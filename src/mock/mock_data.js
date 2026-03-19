@@ -116,7 +116,7 @@ export const mockData = {
           "id": "site-1773882507791",
           "name": "pella",
           "url": "https://www.pella.app/",
-          "description": "",
+          "description": "美国 CF自动续期",
           "icon": "https://www.faviconextractor.com/favicon/www.pella.app"
         },
         {
