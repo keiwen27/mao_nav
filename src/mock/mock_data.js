@@ -118,6 +118,13 @@ export const mockData = {
           "url": "https://www.pella.app/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.pella.app"
+        },
+        {
+          "id": "site-1773891750523",
+          "name": "karlo-hosting",
+          "url": "https://karlo-hosting.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/karlo-hosting.com"
         }
       ]
     },
