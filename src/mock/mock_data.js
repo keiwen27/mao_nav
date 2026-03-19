@@ -329,7 +329,7 @@ export const mockData = {
         {
           "id": "site-1773739320561",
           "name": "bot-hosting",
-          "url": "https://bot-hosting.net/",
+          "url": "https://bot-hosting.net/panel/earn",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/bot-hosting.net"
         },
@@ -337,8 +337,57 @@ export const mockData = {
           "id": "site-1773739376137",
           "name": "hidencloud",
           "url": "https://dash.hidencloud.com/store/view/349",
-          "description": "",
+          "description": "美国27年12月（应该不封）",
           "icon": "https://www.faviconextractor.com/favicon/dash.hidencloud.com"
+        },
+        {
+          "id": "site-1773882218159",
+          "name": "wasmer",
+          "url": "https://wasmer.io/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/wasmer.io"
+        },
+        {
+          "id": "site-1773882275448",
+          "name": "katabump",
+          "url": "https://dashboard.katabump.com/auth/login",
+          "description": "法国4天1续（GitHub自动)",
+          "icon": "https://www.faviconextractor.com/favicon/dashboard.katabump.com"
+        },
+        {
+          "id": "site-1773882322624",
+          "name": "zeabur",
+          "url": "https://zeabur.com/",
+          "description": "印尼游戏机（不需要续期）",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "site-1773882373928",
+          "name": "syntexhosting",
+          "url": "https://syntexhosting.com/",
+          "description": "新加坡游戏机（不需要续)\nsyntexhosting.com",
+          "icon": "https://www.faviconextractor.com/favicon/syntexhosting.com"
+        },
+        {
+          "id": "site-1773882435201",
+          "name": "freezehost",
+          "url": "https://free.freezehost.pro/",
+          "description": "荷兰7天1续（需要挂机获\n",
+          "icon": ""
+        },
+        {
+          "id": "site-1773882471600",
+          "name": "justrunmy",
+          "url": "https://justrunmy.app/",
+          "description": "德国玩具机（自动续期）\n",
+          "icon": "https://www.faviconextractor.com/favicon/justrunmy.app"
+        },
+        {
+          "id": "site-1773882507791",
+          "name": "pella",
+          "url": "https://www.pella.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.pella.app"
         }
       ]
     }
