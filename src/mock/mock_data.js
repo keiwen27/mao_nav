@@ -65,66 +65,73 @@ export const mockData = {
         },
         {
           "id": "site-1773739376137",
-          "name": "hidencloud",
+          "name": "Hidencloud",
           "url": "https://dash.hidencloud.com/store/view/349",
           "description": "美国27年12月（应该不封）",
           "icon": "https://www.faviconextractor.com/favicon/dash.hidencloud.com"
         },
         {
           "id": "site-1773882218159",
-          "name": "wasmer",
+          "name": "Wasmer",
           "url": "https://wasmer.io/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/wasmer.io"
         },
         {
           "id": "site-1773882275448",
-          "name": "katabump",
+          "name": "Katabump",
           "url": "https://dashboard.katabump.com/auth/login",
           "description": "法国4天1续（GitHub自动)",
           "icon": "https://www.faviconextractor.com/favicon/dashboard.katabump.com"
         },
         {
           "id": "site-1773882322624",
-          "name": "zeabur",
+          "name": "Zeabur",
           "url": "https://zeabur.com/",
           "description": "印尼游戏机（不需要续期）",
           "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
         },
         {
           "id": "site-1773882373928",
-          "name": "syntexhosting",
+          "name": "Syntexhosting",
           "url": "https://syntexhosting.com/",
           "description": "新加坡游戏机（不需要续)\nsyntexhosting.com",
           "icon": "https://www.faviconextractor.com/favicon/syntexhosting.com"
         },
         {
           "id": "site-1773882435201",
-          "name": "freezehost",
+          "name": "Freezehost",
           "url": "https://free.freezehost.pro/",
           "description": "荷兰7天1续（需要挂机获\n",
           "icon": ""
         },
         {
           "id": "site-1773882471600",
-          "name": "justrunmy",
+          "name": "Justrunmy",
           "url": "https://justrunmy.app/",
           "description": "德国玩具机（自动续期）\n",
           "icon": "https://www.faviconextractor.com/favicon/justrunmy.app"
         },
         {
           "id": "site-1773882507791",
-          "name": "pella",
+          "name": "Pella",
           "url": "https://www.pella.app/",
           "description": "美国 CF自动续期",
           "icon": "https://www.faviconextractor.com/favicon/www.pella.app"
         },
         {
           "id": "site-1773891750523",
-          "name": "karlo-hosting",
+          "name": "Karlo-hosting",
           "url": "https://karlo-hosting.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/karlo-hosting.com"
+        },
+        {
+          "id": "site-1774094629774",
+          "name": "Theberryhost",
+          "url": "https://theberryhost.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/theberryhost.com"
         }
       ]
     },
