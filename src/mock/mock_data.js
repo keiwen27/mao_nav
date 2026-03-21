@@ -58,8 +58,8 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1773739320561",
-          "name": "bot-hosting",
-          "url": "https://bot-hosting.net/panel/earn",
+          "name": "Bot-hosting",
+          "url": "https://bot-hosting.net/panel",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/bot-hosting.net"
         },
