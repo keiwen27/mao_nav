@@ -47,6 +47,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
+        },
+        {
+          "id": "site-1774305998500",
+          "name": "PY混淆",
+          "url": "https://freecodingtools.org/tools/obfuscator/python",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -132,6 +139,20 @@ export const mockData = {
           "url": "https://theberryhost.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/theberryhost.com"
+        },
+        {
+          "id": "site-1774305853827",
+          "name": "Minerack",
+          "url": "https://dashboard.minerack.net/login",
+          "description": "英国家宽冲",
+          "icon": ""
+        },
+        {
+          "id": "site-1774305938452",
+          "name": "SAP体验版",
+          "url": "https://www.sap.com/sea/products/technology-platform/trial.html",
+          "description": "SAP试用版",
+          "icon": "https://www.faviconextractor.com/favicon/www.sap.com"
         }
       ]
     },
@@ -337,6 +358,13 @@ export const mockData = {
           "url": "https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gist.github.com"
+        },
+        {
+          "id": "site-1774305972340",
+          "name": "JS混淆",
+          "url": "https://go.sssc.nyc.mn/js-obfuscator",
+          "description": "JS混淆",
+          "icon": "https://www.faviconextractor.com/favicon/go.sssc.nyc.mn"
         }
       ]
     },
