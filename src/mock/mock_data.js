@@ -47,13 +47,6 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.52pojie.cn"
-        },
-        {
-          "id": "site-1774305998500",
-          "name": "PY混淆",
-          "url": "https://freecodingtools.org/tools/obfuscator/python",
-          "description": "",
-          "icon": ""
         }
       ]
     },
@@ -365,6 +358,13 @@ export const mockData = {
           "url": "https://go.sssc.nyc.mn/js-obfuscator",
           "description": "JS混淆",
           "icon": "https://www.faviconextractor.com/favicon/go.sssc.nyc.mn"
+        },
+        {
+          "id": "site-1774305998500",
+          "name": "PY混淆",
+          "url": "https://freecodingtools.org/tools/obfuscator/python",
+          "description": "",
+          "icon": ""
         }
       ]
     },
