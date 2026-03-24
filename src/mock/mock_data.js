@@ -74,7 +74,7 @@ export const mockData = {
           "id": "site-1773739320561",
           "name": "Bot-hosting",
           "url": "https://bot-hosting.net/panel",
-          "description": "",
+          "description": "每天任务10金币、日本IP",
           "icon": "https://www.faviconextractor.com/favicon/bot-hosting.net"
         },
         {
@@ -160,6 +160,13 @@ export const mockData = {
           "url": "https://www.sap.com/sea/products/technology-platform/trial.html",
           "description": "SAP试用版",
           "icon": "https://www.faviconextractor.com/favicon/www.sap.com"
+        },
+        {
+          "id": "site-1774332732285",
+          "name": "Xserver",
+          "url": "https://secure.xserver.ne.jp/xinfo/?action_register_xmgame_index=true&plan=xmgame_plan_a_free&_gl=1*187hv3u*_ga*MjMyNTgwMjY4LjE3NzQxNTE2MDA.*_ga_F24SP6D94M*czE3NzQxNTE2MDAkbzEkZzAkdDE3NzQxNTE2MDAkajYwJGwwJGgw*_gcl_au*OTQyNjYxNDc1LjE3NzQxNTE2MDE.*_ga_DYC2WT7S0V*czE3NzQxNTE2MDAkbzEkZzAkdDE3NzQxNTE2MDAkajYwJGwwJGgw*_ga_K5TNH3RRR3*czE3NzQxNTE2MDEkbzEkZzAkdDE3NzQxNTE2MDEkajYwJGwwJGgw",
+          "description": "日本干净IP，值得拥有\nhttps://secure.xserver.ne.jp/xapanel/xmgame/register/xmgamefree/input",
+          "icon": "https://www.faviconextractor.com/favicon/secure.xserver.ne.jp"
         }
       ]
     },
