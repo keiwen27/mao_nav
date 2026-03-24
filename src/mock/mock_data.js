@@ -88,7 +88,7 @@ export const mockData = {
           "id": "site-1773882218159",
           "name": "Wasmer",
           "url": "https://wasmer.io/",
-          "description": "",
+          "description": "IP会跳动不是很好用",
           "icon": "https://www.faviconextractor.com/favicon/wasmer.io"
         },
         {
@@ -156,9 +156,9 @@ export const mockData = {
         },
         {
           "id": "site-1774305938452",
-          "name": "SAP体验版",
+          "name": "SAP试用",
           "url": "https://www.sap.com/sea/products/technology-platform/trial.html",
-          "description": "SAP试用版",
+          "description": "个人版、90天到期；KYMA.14天到期",
           "icon": "https://www.faviconextractor.com/favicon/www.sap.com"
         },
         {
