@@ -67,7 +67,7 @@ export const mockData = {
     {
       "id": "category-1773739295495",
       "icon": "💻",
-      "name": "Discord游戏机",
+      "name": "游戏机",
       "order": 1,
       "sites": [
         {
