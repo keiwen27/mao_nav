@@ -8,21 +8,21 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1769072745055",
-          "name": "美国免税州地址生成",
+          "name": "免税州1",
           "url": "https://usaddressgen.com/tax-free-address/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/usaddressgen.com"
         },
         {
           "id": "site-1769073057145",
-          "name": "真实地址",
+          "name": "真地址",
           "url": "https://add.528181.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/add.528181.xyz"
         },
         {
           "id": "site-1769476810056",
-          "name": "免税州地址2",
+          "name": "免税州2",
           "url": "https://mockaddress.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mockaddress.com"
@@ -43,7 +43,7 @@ export const mockData = {
         },
         {
           "id": "site-1769477608122",
-          "name": "免费云资源",
+          "name": "免费云",
           "url": "https://gist.github.com/imba-tjd/d73258f0817255dbe77d64d40d985e76",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/gist.github.com"
