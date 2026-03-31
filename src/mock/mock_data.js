@@ -61,6 +61,13 @@ export const mockData = {
           "url": "https://freecodingtools.org/tools/obfuscator/python",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1774953785576",
+          "name": "野生地址",
+          "url": "https://add2.528181.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/add2.528181.xyz"
         }
       ]
     },
