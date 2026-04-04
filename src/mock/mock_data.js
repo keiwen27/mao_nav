@@ -174,6 +174,13 @@ export const mockData = {
           "url": "https://secure.xserver.ne.jp/xinfo/?action_register_xmgame_index=true&plan=xmgame_plan_a_free&_gl=1*187hv3u*_ga*MjMyNTgwMjY4LjE3NzQxNTE2MDA.*_ga_F24SP6D94M*czE3NzQxNTE2MDAkbzEkZzAkdDE3NzQxNTE2MDAkajYwJGwwJGgw*_gcl_au*OTQyNjYxNDc1LjE3NzQxNTE2MDE.*_ga_DYC2WT7S0V*czE3NzQxNTE2MDAkbzEkZzAkdDE3NzQxNTE2MDAkajYwJGwwJGgw*_ga_K5TNH3RRR3*czE3NzQxNTE2MDEkbzEkZzAkdDE3NzQxNTE2MDEkajYwJGwwJGgw",
           "description": "日本干净IP，值得拥有\nhttps://secure.xserver.ne.jp/xapanel/xmgame/register/xmgamefree/input",
           "icon": "https://www.faviconextractor.com/favicon/secure.xserver.ne.jp"
+        },
+        {
+          "id": "site-1775300562683",
+          "name": "lemehost",
+          "url": "https://lemehost.com/hosting/362/paper++geyser++floodgate",
+          "description": "https://github.com/oyz8/LemeHost\nhttps://lemehost.com",
+          "icon": "https://www.faviconextractor.com/favicon/lemehost.com"
         }
       ]
     },
