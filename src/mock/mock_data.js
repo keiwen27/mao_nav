@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://lemehost.com/hosting/362/paper++geyser++floodgate",
           "description": "https://github.com/oyz8/LemeHost\nhttps://lemehost.com",
           "icon": "https://www.faviconextractor.com/favicon/lemehost.com"
+        },
+        {
+          "id": "site-1775310555519",
+          "name": "leonodes",
+          "url": "https://leonodes.xyz/dashboard",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/leonodes.xyz"
         }
       ]
     },
