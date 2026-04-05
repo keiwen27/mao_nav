@@ -400,6 +400,13 @@ export const mockData = {
           "url": "https://fuckingg-lemehost.hf.space/oyz/",
           "description": "Lemehost保活面板\nhttps://lemehost.com/hosting/362/paper++geyser++floodgate\nhttps://github.com/oyz8/LemeHost",
           "icon": "https://www.faviconextractor.com/favicon/fuckingg-lemehost.hf.space"
+        },
+        {
+          "id": "site-1775378520325",
+          "name": "MISUB",
+          "url": "https://ms.528181.xyz/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/ms.528181.xyz"
         }
       ]
     },
