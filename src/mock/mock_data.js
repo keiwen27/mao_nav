@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://leonodes.xyz/dashboard",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/leonodes.xyz"
+        },
+        {
+          "id": "site-1775720145342",
+          "name": "HIDE后台面板",
+          "url": "https://freepanel.hidencloud.com",
+          "description": "获取机器--环境部署--续期--断开DIS--进面板改密码",
+          "icon": "https://www.faviconextractor.com/favicon/freepanel.hidencloud.com"
         }
       ]
     },
