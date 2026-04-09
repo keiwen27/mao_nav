@@ -195,6 +195,13 @@ export const mockData = {
           "url": "https://freepanel.hidencloud.com",
           "description": "获取机器--环境部署--续期--断开DIS--进面板改密码",
           "icon": "https://www.faviconextractor.com/favicon/freepanel.hidencloud.com"
+        },
+        {
+          "id": "site-1775720299746",
+          "name": "Falixnodes",
+          "url": "https://falixnodes.net/",
+          "description": "不要用亚洲IP注册、nodejs环境部署",
+          "icon": "https://www.faviconextractor.com/favicon/falixnodes.net"
         }
       ]
     },
