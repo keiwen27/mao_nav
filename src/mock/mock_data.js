@@ -68,6 +68,13 @@ export const mockData = {
           "url": "https://add2.528181.xyz/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/add2.528181.xyz"
+        },
+        {
+          "id": "site-1777106159838",
+          "name": "德国O2",
+          "url": "https://www.o2online.de",
+          "description": "https://www.banknav.com/post/13170/",
+          "icon": "https://www.faviconextractor.com/favicon/www.o2online.de"
         }
       ]
     },
@@ -481,6 +488,13 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1777106120806",
+      "icon": "📱",
+      "name": "ESIM通讯",
+      "order": 0,
+      "sites": []
     }
   ],
   "title": "FSSD"
