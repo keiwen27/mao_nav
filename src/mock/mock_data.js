@@ -494,7 +494,29 @@ export const mockData = {
       "icon": "📱",
       "name": "ESIM通讯",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1777106435790",
+          "name": "giffgaff",
+          "url": "https://www.giffgaff.com",
+          "description": "https://www.banknav.com/post/1216/",
+          "icon": ""
+        },
+        {
+          "id": "site-1777106496838",
+          "name": "clubsim",
+          "url": "https://www.clubsim.com.hk/",
+          "description": "https://www.youtube.com/watch?v=2umMJ18aRdY&t=12s",
+          "icon": "https://www.faviconextractor.com/favicon/www.clubsim.com.hk"
+        },
+        {
+          "id": "site-1777106549310",
+          "name": "vodafone",
+          "url": "https://www.vodafone.de",
+          "description": "https://www.youtube.com/watch?v=KcS5QcjBeRQ&t=1120s",
+          "icon": "https://www.faviconextractor.com/favicon/www.vodafone.de"
+        }
+      ]
     }
   ],
   "title": "FSSD"
