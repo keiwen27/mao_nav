@@ -515,6 +515,13 @@ export const mockData = {
           "url": "https://www.vodafone.de",
           "description": "https://www.youtube.com/watch?v=KcS5QcjBeRQ&t=1120s",
           "icon": "https://www.faviconextractor.com/favicon/www.vodafone.de"
+        },
+        {
+          "id": "site-1777106656798",
+          "name": "德国o2",
+          "url": "https://login.o2online.de",
+          "description": "https://www.youtube.com/watch?v=EVs20NxvAbI&t=1108s",
+          "icon": "https://www.faviconextractor.com/favicon/login.o2online.de"
         }
       ]
     }
