@@ -71,10 +71,10 @@ export const mockData = {
         },
         {
           "id": "site-1777106159838",
-          "name": "德国O2",
-          "url": "https://www.o2online.de",
-          "description": "https://www.banknav.com/post/13170/",
-          "icon": "https://www.faviconextractor.com/favicon/www.o2online.de"
+          "name": "lokiproxy",
+          "url": "https://www.lokiproxy.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
