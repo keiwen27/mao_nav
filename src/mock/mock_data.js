@@ -209,6 +209,13 @@ export const mockData = {
           "url": "https://falixnodes.net/",
           "description": "不要用亚洲IP注册、nodejs环境部署",
           "icon": "https://www.faviconextractor.com/favicon/falixnodes.net"
+        },
+        {
+          "id": "site-1777462912421",
+          "name": "ZO",
+          "url": "https://www.zo.computer",
+          "description": "bash <(curl -Ls https://main.ssss.nyc.mn/argox.sh)",
+          "icon": ""
         }
       ]
     },
