@@ -538,6 +538,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/login.o2online.de"
         }
       ]
+    },
+    {
+      "id": "category-1777511297447",
+      "icon": "💼",
+      "name": "在线存储",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1777511368081",
+          "name": "Pcloud永久磁盘",
+          "url": "https://e.pcloud.com/#/register?invite=W9SWZHhRhdk",
+          "description": "可以使用 Google / Apple ID 快捷注册，或使用常规邮箱。\n【关键步骤】：在设置密码环节，系统会要求确认数据区域，请务必选择「欧盟」，同意条款。\n账号创建完毕，20GB 直接到账。",
+          "icon": "https://www.faviconextractor.com/favicon/e.pcloud.com"
+        }
+      ]
     }
   ],
   "title": "FSSD"
