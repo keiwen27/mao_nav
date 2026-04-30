@@ -216,6 +216,13 @@ export const mockData = {
           "url": "https://www.zo.computer",
           "description": "bash <(curl -Ls https://main.ssss.nyc.mn/argox.sh)",
           "icon": ""
+        },
+        {
+          "id": "site-1777509713740",
+          "name": "VPS",
+          "url": "https://vps.qd.je/provider-incudal.html",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vps.qd.je"
         }
       ]
     },
